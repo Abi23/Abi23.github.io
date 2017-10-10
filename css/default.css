@@ -971,6 +971,10 @@ properly.
    width: 250px;
    height: 250px;
 }
+.modal-embed {
+   width: 550px;
+   height: 360px;
+}
 #contact a  {
    color: white;
 }
